@@ -1,0 +1,26 @@
+log
+
+------
+now
+
+* basic behavior,						here ...
+	* Littering
+	* Spitting
+	* 
+	* Traffic rules
+	* 
+* 
+* big environment,
+* 
+* ...
+* 
+
+------
+TODO
+
+* translation
+	* cn
+	* 
+* 
+
+------
