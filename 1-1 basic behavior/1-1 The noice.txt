@@ -9,6 +9,11 @@ e.g:
 * When in public place, there always has people speak loudly, as if nobody is there.
 * When on the road, many drivers like to beep all the time, as if he / she is looking for a fight, this will make others feel depressed, or even angry.
 * 
+* [special case]
+* in big city, many electric bicycles who carry passengers, like to beep all the time, this really should be fixed,
+	should punish them when they beep loudly,
+	if they are caught more than several times, should cancel their qualification, or even confiscate their bicycle,
+* 
 * ...
 * 
 
